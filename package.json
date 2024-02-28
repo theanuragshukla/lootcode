@@ -7,7 +7,9 @@
   },
   "description": "A command line tool to fetch leetcode problems and submit solutions",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "keywords": [
     "leetcode",
     "bot",
