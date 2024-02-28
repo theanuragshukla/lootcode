@@ -26,7 +26,6 @@
     "commander": "^12.0.0",
     "conf": "^12.0.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/theanuragshukla/lootcode.git"
