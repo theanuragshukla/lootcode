@@ -66,6 +66,20 @@ You can request to solve and submit a problem automatically using the following 
 lc please <problem_slug>
 ```
 
+## Example Usage
+```bash
+# Log in to LeetCode
+lc login
+
+# Submit a solution for a problem with slug 'two-sum'
+lc submit two-sum --language javascript --file solution.js
+
+# Retrieve the solution for a problem with slug 'two-sum'
+lc solution two-sum
+
+# Solve and submit a problem with slug 'two-sum' automatically
+lc please two-sum --language python
+```
 
 ## Contributing
 
