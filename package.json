@@ -1,0 +1,38 @@
+{
+  "name": "lootcode",
+  "version": "1.0.1",
+  "type": "module",
+  "bin": {
+    "lc": "index.js"
+  },
+  "description": "A command line tool to fetch leetcode problems and submit solutions",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "leetcode",
+    "bot",
+    "cli",
+    "command-line-tool",
+    "node.js",
+    "javascript",
+    "leetcode-cli",
+    "lootcode"
+  ],
+  "author": "theanuragshukla",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "chalk": "^5.3.0",
+    "commander": "^12.0.0",
+    "conf": "^12.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theanuragshukla/lootcode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/theanuragshukla/lootcode/issues"
+  },
+  "homepage": "https://github.com/theanuragshukla/lootcode#readme"
+}
